@@ -64,6 +64,12 @@ const config: Config = {
         src: 'img/logo.svg',
       },
       items: [
+      {
+          type: "docSidebar",
+          sidebarId: "java",
+          position: "left",
+          label: "java",
+        },
         {
           type: 'docSidebar',
           sidebarId: 'tutorialSidebar',
