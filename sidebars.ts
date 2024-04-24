@@ -30,7 +30,11 @@ const sidebars: SidebarsConfig = {
     {
       type: "category",
       label: "面渣逆袭",
-      items: ["interview/sanfene/collection"],
+      items: [
+        "interview/sanfene/collection",
+        "interview/sanfene/mysql",
+        "interview/sanfene/fenbushi",
+      ],
     },
   ],
   netty: [
