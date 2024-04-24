@@ -1,15 +1,4 @@
 
-这篇总结是基于之前博客内容的一个整理和回顾。
-
-这里先简单地总结一下，更多详细内容请参考我的专栏：深入浅出Java核心技术
-
-https://blog.csdn.net/column/details/21930.html
-
-里面有包括Java集合类在内的众多Java核心技术系列文章。
-
-
-以下总结不保证全对，如有错误，还望能够指出。谢谢
-<!-- more -->
 
 ## Colletion，iterator，comparable
 

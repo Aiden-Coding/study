@@ -26,6 +26,13 @@ const sidebars: SidebarsConfig = {
     },
   ],
    */
+  besterJava: [
+    {
+      type: "category",
+      label: "面渣逆袭",
+      items: ["interview/sanfene/collection"],
+    },
+  ],
   netty: [
     {
       type: "category",

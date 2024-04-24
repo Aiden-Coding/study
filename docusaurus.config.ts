@@ -82,6 +82,12 @@ const config: Config = {
           position: "left",
           label: "网络",
         },
+        {
+          type: "docSidebar",
+          sidebarId: "besterJava",
+          position: "left",
+          label: "面渣逆袭",
+        },
         // {
         //   type: 'docSidebar',
         //   sidebarId: 'tutorialSidebar',
