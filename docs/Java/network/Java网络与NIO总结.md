@@ -1,9 +1,4 @@
-这篇总结主要是基于我之前Java网络编程与NIO系列文章而形成的的。主要是把重要的知识点用自己的话说了一遍，可能会有一些错误，还望见谅和指点。谢谢
 
-更多详细内容可以查看我的专栏文章：Java网络编程与NIO
-
-https://blog.csdn.net/column/details/21963.html
-<!-- more -->
 
 ## Java IO
 
