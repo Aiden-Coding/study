@@ -1851,19 +1851,7 @@ PS:微服务后面有机会再扩展，其实面试一般都是结合项目去�
 
 **系列内容**：
 
-- [面渣逆袭 Java SE 篇👍](./javase.html)
-- [面渣逆袭 Java 集合框架篇👍](./javathread.html)
-- [面渣逆袭 Java 并发编程篇👍](./collection.html)
-- [面渣逆袭 JVM 篇👍](./jvm.html)
-- [面渣逆袭 Spring 篇👍](./spring.html)
-- [面渣逆袭 Redis 篇👍](./redis.html)
-- [面渣逆袭 MyBatis 篇👍](./mybatis.html)
-- [面渣逆袭 MySQL 篇👍](./mysql.html)
-- [面渣逆袭操作系统篇👍](./os.html)
-- [面渣逆袭计算机网络篇👍](./network.html)
-- [面渣逆袭RocketMQ篇👍](./rocketmq.html)
-- [面渣逆袭分布式篇👍](./fenbushi.html)
-- [面渣逆袭微服务篇👍](./weifuwu.html)
+
 
 ----
 
